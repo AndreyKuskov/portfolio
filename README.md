@@ -7,7 +7,7 @@
 Клонировать репозиторий в любую папку
 
 ```bash
-git clone https://github.com/AndreyKuskov/portfolio.git
+git clone https://github.com/AndreyKuskov/portfolio-django.git
 ```
 
 Создать виртуальное окружение
